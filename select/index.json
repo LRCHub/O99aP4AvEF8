@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "SHEESH / THE FIRST TAKE",
+  "base_artist": "BABYMONSTER",
+  "createdAt": "2025-12-13T15:39:49.067175Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sheesh",
+      "artist": "Lil Gotit",
+      "has_synced": false,
+      "path": "select/01_Sheesh_Lil_Gotit.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sheesh",
+      "artist": "BENEE",
+      "has_synced": true,
+      "path": "select/02_Sheesh_BENEE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sheesh!",
+      "artist": "Surfaces feat. Tai Verdes",
+      "has_synced": true,
+      "path": "select/03_Sheesh!_Surfaces_feat._Tai_Verdes.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sheesh!",
+      "artist": "Surfaces, Tai Verdes",
+      "has_synced": true,
+      "path": "select/04_Sheesh!_Surfaces,_Tai_Verdes.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sheesh!",
+      "artist": "Surfaces",
+      "has_synced": true,
+      "path": "select/05_Sheesh!_Surfaces.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sheesh",
+      "artist": "Hiphopologist feat. Ashkan Kagan",
+      "has_synced": true,
+      "path": "select/06_Sheesh_Hiphopologist_feat._Ashkan_Kagan.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sheesh",
+      "artist": "Hiphopologist & Ashkan Kagan",
+      "has_synced": true,
+      "path": "select/07_Sheesh_Hiphopologist_&_Ashkan_Kagan.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sheesh",
+      "artist": "Crypt feat. Futuristic",
+      "has_synced": false,
+      "path": "select/08_Sheesh_Crypt_feat._Futuristic.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "SHEESH",
+      "artist": "BABYMONSTER",
+      "has_synced": true,
+      "path": "select/09_SHEESH_BABYMONSTER.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "SHEESH",
+      "artist": "BABYMONSTER",
+      "has_synced": true,
+      "path": "select/10_SHEESH_BABYMONSTER.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Sheesh (feat. Grimes)",
+      "artist": "BENEE feat. Grimes",
+      "has_synced": true,
+      "path": "select/11_Sheesh_(feat._Grimes)_BENEE_feat._Grimes.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sheesh (feat. Aesop Rock)",
+      "artist": "Homeboy Sandman feat. Aesop Rock",
+      "has_synced": false,
+      "path": "select/12_Sheesh_(feat._Aesop_Rock)_Homeboy_Sandman_feat._Aesop_Rock.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sheesh (Instrumental)",
+      "artist": "Homeboy Sandman",
+      "has_synced": false,
+      "path": "select/13_Sheesh_(Instrumental)_Homeboy_Sandman.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sheesh (feat. Aesop Rock)",
+      "artist": "Homeboy Sandman",
+      "has_synced": false,
+      "path": "select/14_Sheesh_(feat._Aesop_Rock)_Homeboy_Sandman.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Sheesh (feat. Futuristic)",
+      "artist": "Crypt",
+      "has_synced": false,
+      "path": "select/15_Sheesh_(feat._Futuristic)_Crypt.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Sheesh (feat. Grimes)",
+      "artist": "BENEE",
+      "has_synced": true,
+      "path": "select/16_Sheesh_(feat._Grimes)_BENEE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SHEESH",
+      "artist": "BABYMONSTER",
+      "has_synced": false,
+      "path": "select/pl_01_SHEESH_BABYMONSTER.txt"
+    }
+  ]
+}
